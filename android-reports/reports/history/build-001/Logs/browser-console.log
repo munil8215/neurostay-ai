@@ -1,0 +1,3 @@
+[Browser Console Log Dump]
+[2026-07-19T17:55:11.909Z] [SEVERE] https://munil8215.github.io/neurostay-ai/ - Failed to load resource: the server responded with a status of 404 ()
+[2026-07-19T17:55:24.838Z] [SEVERE] https://docs.github.com/en/pages - Unrecognized Content-Security-Policy directive 'prefetch-src'.
